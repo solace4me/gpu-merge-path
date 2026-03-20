@@ -1,0 +1,18 @@
+# Generated files
+results.txt
+*.png
+*.pdf
+
+# VS Code
+.output/..
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.o
+*.exe
+merge_path
