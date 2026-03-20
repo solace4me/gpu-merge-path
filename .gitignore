@@ -4,7 +4,7 @@ results.txt
 *.pdf
 
 # VS Code
-.output/..
+output/..
 .vscode/
 *.code-workspace
 
